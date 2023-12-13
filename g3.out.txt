@@ -1,0 +1,11 @@
+Sequence: ['a', 'a', 'c', 'b', 'c']
+index      info       parent     right sibling
+1          S          -          -         
+2          a          1          -         
+3          S          1          2         
+4          b          1          3         
+5          S          1          4         
+6          a          3          -         
+7          S          3          6         
+8          c          5          -         
+9          c          7          -         
